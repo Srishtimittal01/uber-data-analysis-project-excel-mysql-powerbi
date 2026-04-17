@@ -71,9 +71,10 @@ Developed an interactive dashboard to visualize insights:
 
 ## 📁 Project Files
 
-* uber_data.csv → Dataset
-* sql_queries.sql → SQL queries used for analysis
-* powerbi_dashboard.pbix → Power BI dashboard
+* data.csv → Dataset
+* dashboard folder → dashboard screenshots
+* uber_data_queries.sql → SQL queries used for analysis
+* dashboard.pbix → Power BI dashboard
 * README.md → Project documentation
 
 ---
