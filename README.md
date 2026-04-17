@@ -93,4 +93,5 @@ Developed an interactive dashboard to visualize insights:
 
 ## 📸 Dashboard Preview
 
-![Dashboard]()
+![Page 1](dashboard/page1.png)
+👉 More dashboard screenshots are available in the dashboard folder.
